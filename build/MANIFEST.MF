@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 20.4-b02-402 (Apple Inc.)
+Built-By: amusarra
+Main-Class: com.sugarcrm.sugarcrm.SugarsoapPortType_SugarsoapPort_Clie
+ nt
+Implementation-Version: 1.00-b3
+Built-Date: 2012-02-29 21:28:10
+
